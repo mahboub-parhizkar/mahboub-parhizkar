@@ -62,6 +62,7 @@ Languages        Python · Java · SQL
 
 #### 📬 Connect
 
+[![Website](https://img.shields.io/badge/Website-mahboubparhizkar.com-FF6B35?style=flat&logo=safari&logoColor=white)](https://mahboubparhizkar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahboub_Parhizkar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mahboub-parhizkar)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-200+_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=mZco0BcAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4856--211X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4856-211X)
